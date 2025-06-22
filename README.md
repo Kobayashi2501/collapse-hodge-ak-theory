@@ -108,7 +108,7 @@ This proof is built on:
 
 ## 🌐 Japanese Version
 
-👉 [日本語版はこちら（README_ja.md）](https://github.com/Kobayashi2501/The-Collapse-Resolution-of-the-Hodge-Conjecture-via-AK-Theory/blob/main/README_jp.md)
+👉 [日本語版はこちら（README_ja.md）](https://github.com/Kobayashi2501/collapse-hodge-ak-theory/blob/main/README_jp.md)
 
 ---
 
