@@ -88,12 +88,12 @@ Each step is governed by the Collapse axioms A0–A9 and type-theoretic consiste
 This version provides a full structural and type-theoretic proof of the Hodge Conjecture under:
 
 - Collapse axioms (A0–A9)  
-- Vanishing of $PH₁$ and $\operatorname{Ext}^1$  
-- Formal realization via $\mathcal{C}_{\text{collapse}}$  
+- Vanishing of PH₁ and Ext¹  
+- Formal realization via C_collapse  
 - Coq/Lean compatible type system
 
-**If** $PH₁(\mathcal{F}_\alpha) = 0$ **and** $\operatorname{Ext}^1(\mathcal{F}_\alpha, \mathbb{Q}) = 0$,  
-**then** $[\alpha] = [Z_\alpha]$, where $Z_\alpha$ is an algebraic cycle.
+**If** PH₁(F_α) = 0 **and** Ext¹(F_α, ℚ) = 0,  
+**then** [α] = [Z_α], where Z_α is an algebraic cycle.
 
 ---
 
