@@ -1,6 +1,6 @@
 # 📘 The Collapse Resolution of the Hodge Conjecture via AK Theory（v1.0）
 
-### コラプス理論とAK高次元射影構造に基づくホッジ予想の構造的証明
+### Collapse理論とAK高次元射影構造に基づくホッジ予想の構造的証明
 
 本リポジトリは、**ホッジ予想**に対して構築された、**Collapse理論（崩壊構造）**および  
 **AK高次元射影構造理論（AK-HDPST）**に基づく、圏論的・型理論的かつ形式的な解法の**バージョン1.0**を含みます。
@@ -104,7 +104,7 @@ C_collapse(𝔽_α) = Z_α ⇒ [α] = [Z_α]
 
 本研究は以下の理論に基づいています：
 
-[🔗 AK-HDPST GitHub リポジトリ](https://github.com/Kobayashi2501/AK-High-Dimensional-Projection-Structural-Theory)
+[🔗 AK-HDPST GitHub リポジトリ](https://github.com/Kobayashi2501/collapse-hodge-ak-theory/blob/main/README.md)
 
 ---
 
