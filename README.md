@@ -116,6 +116,44 @@ but rather that all **collapse-typable classes** are.
 This gives a **type-theoretic, classification-driven resolution** to the Hodge Conjecture on its collapse-compatible subdomain.
 
 ---
+## 🗺️ Collapse-Based Typability Mapping
+
+The AK Collapse framework provides a structural stratification of the Hodge Conjecture:
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│     Hodge Class [α] ∈ H^{p,p}(X) ∩ H^{2p}(X, ℚ)            │
+╰────────────────────────────────────────────────────────────╯
+                      │
+              Construct Sheaf 𝔽_α
+                      │
+         ┌────────────┼────────────┐
+         │            │            │
+   PH₁(𝔽_α) ≠ 0   PH₁ = 0     𝔽_α undefined
+     (Type I)     │              (Type IV)
+    ❌ Collapse    │            ❌ Untypable
+   Obstruction    ▼
+             Ext¹(𝔽_α, ℚ) ≠ 0
+                 (Type II)
+             ❌ No Extension
+                 ▼
+           Ext¹ = 0 (Type III)
+                 ▼
+      ✅ Collapse Typable
+        ⇒ [α] = [Z_α] ∈ CH^p(X)
+Legend:
+
+✅ Type III: Collapse-typable — Proven algebraic
+
+❌ Type I / II: Collapse fails — Topological / Extension obstruction
+
+❌ Type IV: No sheaf definable — Transcendental class
+
+Collapse Typing thus gives a syntactic control mechanism
+to determine where the Hodge Conjecture holds constructively.
+
+---
+
 
 ## 🧩 Related Theory: AK High-Dimensional Projection (AK-HDPST)
 
