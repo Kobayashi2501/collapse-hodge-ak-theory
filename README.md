@@ -139,6 +139,11 @@ We recommend this version to be archived and cited via **arXiv** or related acad
 
 ---
 
+DOI
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15904741.svg)](https://doi.org/10.5281/zenodo.15904741)
+
+---
+
 ## 📩 Contact
 
 For collaboration, questions, or feedback on:
