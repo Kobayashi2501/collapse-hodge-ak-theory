@@ -135,6 +135,12 @@ Collapse理論によるホッジ予想の定理は：
 
 ---
 
+DOI
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15904741.svg)](https://doi.org/10.5281/zenodo.15904741)
+
+
+---
+
 ## 📩 お問い合わせ
 
 以下に関心ある研究者との議論を歓迎します：
