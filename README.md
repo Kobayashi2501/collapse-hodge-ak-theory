@@ -122,7 +122,7 @@ The AK Collapse framework provides a structural stratification of the Hodge Conj
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
-│     Hodge Class [α] ∈ H^{p,p}(X) ∩ H^{2p}(X, ℚ)            │
+│     Hodge Class [α] ∈ H^{p,p}(X) ∩ H^{2p}(X, ℚ)           │
 ╰────────────────────────────────────────────────────────────╯
                       │
               Construct Sheaf 𝔽_α
@@ -153,7 +153,6 @@ Collapse Typing thus gives a syntactic control mechanism
 to determine where the Hodge Conjecture holds constructively.
 
 ---
-
 
 ## 🧩 Related Theory: AK High-Dimensional Projection (AK-HDPST)
 
